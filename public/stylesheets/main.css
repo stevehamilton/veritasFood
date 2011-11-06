@@ -1,0 +1,9 @@
+a img {border: none}
+.default {font-family = "arial, helvetica, sans-serif"}
+.footer {font-size:x-small}
+
+<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-1.1.0.min.css">
+
+<link rel="stylesheet/less" href="/path/to/bootstrap.less">
+<script src="/path/to/less.js"></script>
+
